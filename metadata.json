@@ -1,0 +1,6 @@
+{
+  "name": "FF-MORFO — Jogo de Cartas Educativo de Free Fire",
+  "description": "Descubra como surgiram as gírias do Free Fire e os processos de formação e morfologia das palavras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
